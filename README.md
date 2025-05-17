@@ -89,7 +89,7 @@ This README provides a good starting point. You can further enhance it by:
 * Explaining the shift register driving logic in more detail if desired.
 * Adding a section on how to extend the project (e.g., displaying min/max voltage, adding more features).
 ## Demo file.gif
-![Project Demonstration](resources/my_project_demo.gif)
+![Project Demonstration](resources/Project_Running.gif)
 
 ## Better Quality Video
 Watch the full video at higher quality of the project fromvhere: [Project Demo Video](https://drive.google.com/drive/u/1/folders/1XyMBgWulXaC0YtWTRtJL3cCQBkWPy9cO?dmr=1&ec=wgc-drive-hero-goto)
